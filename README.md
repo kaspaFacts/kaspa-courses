@@ -1,2 +1,4 @@
 # kaspa-courses
-A guide to Kaspa, including essential computer science fundamentals.
+A way to learn about Kaspa, including essential computer science fundamentals.
+
+NOTE: The single source of truth about Kaspa is the rusty-kaspa codebase, NOT anything contained within this educational repo.
